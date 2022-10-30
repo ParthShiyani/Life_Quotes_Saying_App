@@ -1,5 +1,4 @@
 # quotes_app
-# Animal_biography_App
       Json | sqflite-Database
       
 https://user-images.githubusercontent.com/111631451/198877525-ca6cd34e-5717-4c05-bb77-4884d83a1788.mp4
